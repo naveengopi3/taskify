@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "789618362953",
+    "project_id": "taskify-3cd41",
+    "storage_bucket": "taskify-3cd41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789618362953:android:d4b9e8bf0f824062fa0d98",
+        "android_client_info": {
+          "package_name": "com.example.taskify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789618362953-q3bdkpmdlhmljr4pap65hq7kh9oc936d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPZK63jKfmHVe48H25Rr4-UNe24b_8Je4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789618362953-o1l6810fifihb1hhlj1r95dbj6b7udrr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "789618362953-l67dd5ssjdmtabss5hovf42pdob0dsgm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taskify"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
